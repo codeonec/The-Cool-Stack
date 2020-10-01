@@ -11,17 +11,17 @@ export default function Home({ posts }) {
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
         <title>High on Code - The Lazy Developer Network</title>
-        <meta name="title" content="High on Code - The Lazy Developer Network" />
-        <meta name="description" content="The Lazy developer network. Information, Stories and tips to deal with your inner dumb vulnerabilities." />
+        <meta name="title" content="The Cool Stack - The Lazy Developer Network" />
+        <meta name="description" content="The Cool Stack. Information, Stories and tips to deal with your inner dumb vulnerabilities." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://high-on-code.web.app/" />
-        <meta property="og:title" content="High on Code - The Lazy Developer Network" />
+        <meta property="og:title" content="The Cool Stack - The Lazy Developer Network" />
         <meta property="og:description" content="The Lazy developer network. Information, Stories and tips to deal with your inner dumb vulnerabilities." />
         <meta property="og:image" content="img/start.png" />
       </Head>
       <Header />
       <div className="cover">
-        <h1>HighOnCode</h1>
+        <h1>The Cool Stack</h1>
         <p>The Lazy developer network. Information, Stories and tips to deal with your inner dumb vulnerabilities.</p>
         <a href="https://codeonec.co">Fly Home</a>
       </div>
