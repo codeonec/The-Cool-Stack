@@ -10,7 +10,7 @@ export default function Home({ posts }) {
       <Head>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
-        <title>High on Code - The Lazy Developer Network</title>
+        <title>The Cool Stack - The Lazy Developer Network</title>
         <meta name="title" content="The Cool Stack - The Lazy Developer Network" />
         <meta name="description" content="The Cool Stack. Information, Stories and tips to deal with your inner dumb vulnerabilities." />
         <meta property="og:type" content="website" />
